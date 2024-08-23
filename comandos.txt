@@ -1,0 +1,10 @@
+iniciar el repositorio 
+git init
+ver el estado sde los archivos
+git status
+agregar los cambios 
+git add .
+agregar un comentario
+git commit .m "texto de observacion"
+empujar el repositorio o confirmar
+git push
